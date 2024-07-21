@@ -1,0 +1,4 @@
+dnspython==2.6.1
+pymongo==4.8.0
+python-dotenv==1.0.1
+websockets==12.0
